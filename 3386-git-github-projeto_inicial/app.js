@@ -1,3 +1,6 @@
+//O objetivo deste código em JS é a criação de um jogo onde um número desconhecido é sorteado e guardado para ser usado de comparativo ao número chutado pelo usuário que estará interagindo. Código ultilizando Funções.
+//Além disso foi adicionado uma interação por voz com o que está na tela, pensando assim, em pessoas com deficiência.
+
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
