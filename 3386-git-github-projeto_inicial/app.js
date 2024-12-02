@@ -2,7 +2,7 @@
 //Além disso foi adicionado uma interação por voz com o que está na tela, pensando assim, em pessoas com deficiência.
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
